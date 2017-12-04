@@ -5,8 +5,11 @@ python
 
 ## Software Required
 sklearn: sudo pip install sklearn
+
 pandas: sudo pip install pandas
+
 numpy: sudo pip install numpy
+
 matplotlib: sudo pip install matplotlib
 
 ## Results:
