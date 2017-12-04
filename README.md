@@ -1,5 +1,7 @@
 # WiFiTrafficPredictor
-Adopts machine learning -- random forest regression to predict the traffic of a WiFi network in a building.
+This is an demo code for a WiFi traffic predictor, It adopts machine learning -- random forest regression to predict the traffic of a WiFi network in a building.
+The test data is in .csv format, and is protected for security reasons. Thus, only the code and the results are available. To predict your own data, just set the path and file name as your own .csv.
+
 ## language
 python
 
