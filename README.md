@@ -20,5 +20,3 @@ matplotlib: sudo pip install matplotlib
 2_floor.png
 3_floor.png
 
-#### author
-Qianru Zhou (qz1@hw.ac.uk)
